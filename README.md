@@ -1,54 +1,45 @@
+
 # Embedded Systems Projects
 
-Welcome to my Embedded Systems portfolio! This repository contains my hands-on projects and practice work in Embedded C, microcontrollers, firmware development, STM32, robotics, and system-level programming.
+Welcome to my programming portfolio! This repository contains my C programming projects developed to strengthen my programming fundamentals, problem-solving skills, and understanding of system-level programming.
 
-I am continuously building projects to strengthen my understanding of embedded systems and develop practical firmware development skills.
+I am continuously building projects to improve my coding skills and develop a strong foundation for Embedded Systems and Firmware Development.
 
 ## About Me
 
-- 🎓 Mechatronics Engineering graduate
-- 💻 Currently pursuing Embedded Systems training at Emertxe, Bangalore
-- 🔧 Focus areas: Embedded C, Microcontrollers, STM32, Firmware Development
-- 📚 Learning: C programming, data structures, microcontroller peripherals, debugging and embedded architecture
+- Mechatronics Engineering graduate
+- Currently undergoing Embedded Systems training at Emertxe, Bangalore
+- Focus areas: C Programming, Embedded C, Microcontrollers, and Firmware Development
+- Learning: C programming, data structures, pointers, memory management, and debugging
 
 ## Technologies & Tools
 
-- **Programming:** C, Embedded C
-- **Microcontrollers:** STM32, Arduino, ESP32
-- **Peripherals:** GPIO, ADC, Timers, PWM, UART
-- **Tools:** STM32CubeIDE, PICSimLab, GCC, Git, Linux
-- **Areas:** Firmware Development, Embedded Programming, Robotics, Sensor Interfacing
+- **Programming:** C
+- **Tools:** GCC, Git, Linux
+- **Concepts:** Data Structures, File Handling, Arrays, Structures, Strings, Bit Manipulation
 
-## Projects
-
-### STM32 Projects
+## C Programming Projects
 
 | Project | Description | Concepts |
 |---|---|---|
-| Inactivity Detector | Detects inactivity using input monitoring | GPIO, timing, debouncing |
-| Multi-Mode LED Controller | LED control using multiple operating modes | GPIO, state logic, timers |
-| Configurable Electronic Buzzer | Generates configurable buzzer output | PWM, timers |
-| Binary Counter Display | Displays a binary count using LEDs | GPIO, counters |
-| Human Reaction-Time Measurement System | Measures user reaction time | Timers, GPIO, timing measurement |
-
-### C Programming Projects
-
-| Project | Description | Concepts |
-|---|---|---|
-| LSB Image Steganography | Hides and retrieves text within BMP images | File handling, bit manipulation, validation |
-
-### Robotics & AI Projects
-
-| Project | Description |
-|---|---|
-| AI-Based Campus Waste Management System | AI-based waste detection integrated with a mobile application and robotic waste collection system |
+| [LSB Image Steganography](C-Programming-Projects/LSB-Image-Steganography/) | Hides and retrieves text within BMP images | File handling, bit manipulation, validation |
+| [Tic-Tac-Toe](C-Programming-Projects/Tic-Tac-Toe/) | Two-player console-based Tic-Tac-Toe game | Arrays, functions, game logic |
+| [Address Book Management](C-Programming-Projects/Address-Book-Management/) | Creates, searches, edits, deletes, and stores contacts | Structures, arrays, strings, file handling |
 
 ## Repository Structure
 
 ```text
 Embedded-Systems-Projects/
-├── STM32-Projects/
-├── Embedded-C/
-├── Image-Steganography/
-├── Robotics-and-Automation/
-└── AI-and-IoT-Projects/
+└── C-Programming-Projects/
+    ├── LSB-Image-Steganography/
+    ├── Tic-Tac-Toe/
+    └── Address-Book-Management/
+```
+
+## Goals
+
+- Strengthen C programming fundamentals
+- Improve problem-solving and logical thinking
+- Practice file handling and data structures
+- Build a foundation for Embedded C and firmware development
+- Develop practical projects for my technical portfolio

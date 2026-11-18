@@ -1,0 +1,15 @@
+# Compiled executables
+a.out
+*.o
+*.exe
+
+# Debug files
+core
+core.*
+
+# Editor temporary files
+*.swp
+*.swo
+
+# Build directories
+build/
