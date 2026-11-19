@@ -21,13 +21,13 @@ memory management, and bit manipulation.
 
 ## 📂 Repository Structure
 
-\`\`\`
+```
 C-Programming-Projects/
 ├── LSB-Image-Steganography/
 ├── Tic-Tac-Toe/
 ├── Address-Book-Management/
 └── README.md
-\`\`\`
+```
 
 ## 🎯 Focus Areas
 
